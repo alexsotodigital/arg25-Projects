@@ -271,8 +271,7 @@ _After Week 3, summarize your final state: deliverables, repo links, and outcome
 
 - **Main Repository Link:**  https://github.com/alexsotodigital/arg25-Projects/
 - **Demo / Deployment Link (if any):**  https://commonscore-escrow-s-tbbc.bolt.host/
-- **Slides / Presentation (if any):**
-
+- **Slides / Presentation (if any):** https://www.canva.com/design/DAG4i3EcQNs/BreX_yKB60bwa67CyKfVuw/view?utm_content=DAG4i3EcQNs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8b3f2c2dc8
 
 
 ## 🧾 Learnings
@@ -285,6 +284,8 @@ During our stay at Invisible Garden, we learned about:
 - The different pain points that pop-up city organizers, such as Invisible Garden, encounter when organizing a residency, like the one we are experiencing firsthand.
 
 - The existing technological components for creating potential solutions to these pain points, as well as the projects that are experimenting with them.
+  
+- We have the insight that we are at a very interesting point where technology, community, and territory intersect to rethink how we organize ourselves. Ephemeral cities can be environments for social and technological experimentation that foster the development of new tools and more open and sustainable collaboration models.
 
 
 ## Next Steps
