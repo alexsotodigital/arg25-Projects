@@ -12,9 +12,9 @@
    - GitHub Handles: @navy0110
    - Devfolio Handles: @navynox
 
-## Project Description
+## Project Description 
 _commonscore is a minimal smart-contract framework for collective coordination.
-It lets groups inside pop-up cities, residencies, or permanent hubs create and join economic agreements that distribute shared costs or benefits automatically — with transparency, fairness, and no spreadsheets._
+It lets groups inside pop-up cities, residencies, or permanent hubs create and join economic agreements that distribute shared costs or benefits automatically; with transparency andfairness, and no spreadsheets._
 
 
 
@@ -43,7 +43,7 @@ Define the idea and achieve alignment within the team. 🫶
 
 **Progress Summary:**  
 
-Communities like Invisible Garden or Edge City Patagonia often manage shared resources:
+Communities like Invisible Garden, Edge City Patagonia, Funding The Commons, or any Pop Up City and Permanent Hub, often manage shared resources:
 - meals and groceries,
 - co-working passes,
 - local transport,
@@ -57,13 +57,13 @@ Each agreement is a small smart contract that:
 - returns funds if not,
 - and fairly rewards the coordinator who managed it.
 
-Optionally, a portion of each successful agreement can be routed to a Commons Vault — a shared treasury for permanent hubs.
+Optionally, a portion of each successful agreement can be routed to a Commons Vault: a shared treasury for the hub.
 
 
 ### Week 2 (ends Nov 7)
 **Goals:**  
 
-#### 8. Expected Outcome of the MVP
+#### Expected Outcome of the MVP
 A technically functional and visually engaging prototype that demonstrates:
 - Onboarding of a pop-up city as a hub.
 - Participant registration with explicit informed consent and federated identity.
@@ -79,7 +79,7 @@ A technically functional and visually engaging prototype that demonstrates:
 ### Commonscore Hubs — Federated Coordination Platform for Pop-Up Cities and Residencies
 
 #### 1. Overview
-Covenant Hubs is a decentralized coordination platform designed to empower pop-up cities, digital residencies, and federated communities to manage shared agreements and distribute sponsor resources transparently. It combines federated identity, smart-contract-based escrow, social attestations, and zero-knowledge analytics to build trust-driven micro-economies for temporary hubs and long-term cooperative networks.
+Covenant Hubs could be a decentralized coordination platform designed to empower pop-up cities, digital residencies, and federated communities to manage shared agreements and distribute sponsor resources transparently. It combines federated identity, smart-contract-based escrow, social attestations, and zero-knowledge analytics to build trust-driven micro-economies for temporary hubs and long-term cooperative networks.
 The system operates across three composable layers:
 - Federation Layer: registers hubs adhering to shared coordination principles.
 - commonscore Layer: automates escrow-based collective agreements.
@@ -114,7 +114,6 @@ Pop-up cities and residencies often rely on scarce sponsor funding and must coor
 - The participant provides explicit, signed consent to these agreements.
 - A minimal social verification (two attestations from members or coordinators) confirms the participant’s trust level.
 - Once verified, they receive a Federated Identity NFT enabling participation in agreements and conditional funding programs.
-
 
 **3.3 Funding Distribution (commonscore Escrow Contracts)**
 - The hub deploys a commonscore Escrow Agreement with the following parameters:
@@ -174,11 +173,11 @@ Pop-up cities and residencies often rely on scarce sponsor funding and must coor
    - Contrast: #9F9A8A
       - Soft gradients and minimal shadows create a calm, elegant interface.
 
-
 **Core Visual Metaphors:**
 - Cylinders: hubs or residencies.
 - Concentric circles: active agreements.
 - Orbits: escrow contracts in progress.
+
 **Animations:**
 - Hover → subtle pulse and expansion.
 - Signature or attestation → circular sealing animation.
@@ -279,11 +278,18 @@ _After Week 3, summarize your final state: deliverables, repo links, and outcome
 ## 🧾 Learnings
 _What did you learn or improve during ARG25?_
 
+During our stay at Invisible Garden, we learned about:
+
+- The emerging landscape of pop-up cities and the rise of permanent hubs to promote the implementation of Web3 technology in face-to-face meetings.
+
+- The different pain points that pop-up city organizers, such as Invisible Garden, encounter when organizing a residency, like the one we are experiencing firsthand.
+
+- The existing technological components for creating potential solutions to these pain points, as well as the projects that are experimenting with them.
 
 
 ## Next Steps
 _If you plan to continue development beyond ARG25, what’s next?_
-
+The outcome of our work is intended to help Invisible Garden continue exploring ways to collectively improve its economic arrangements. We are happy to continue the conversation and seek other necessary contributors to make this happen.
 
 
 _This template is part of the [ARG25 Projects Repository](https://github.com/invisible-garden/arg25-projects)._  
