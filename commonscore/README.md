@@ -269,8 +269,8 @@ Backend/Indexing                   The Graph / Supabase                      Ind
 ## Final Wrap-Up
 _After Week 3, summarize your final state: deliverables, repo links, and outcomes._
 
-- **Main Repository Link:**  
-- **Demo / Deployment Link (if any):**  
+- **Main Repository Link:**  https://github.com/alexsotodigital/arg25-Projects/
+- **Demo / Deployment Link (if any):**  https://commonscore-escrow-s-tbbc.bolt.host/
 - **Slides / Presentation (if any):**
 
 
